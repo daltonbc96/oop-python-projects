@@ -28,8 +28,10 @@
 * [Authors](#authors)
 
 ## About The Project
-
-![Main Menu](images/mainMenu.png){ width=50% }
+<p align="center">
+  <img src="images/mainMenu.png" alt="Main Menu" width="65%">
+</p>
+![Main Menu](images/mainMenu.png){: width=50% }
 
 This is a Python project for practicing object-oriented programming concepts. This project allows users to create a checking or savings account and perform financial transactions between accounts.
 
