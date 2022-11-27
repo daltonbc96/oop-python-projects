@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/daltonbc96/python-oop-projects">
-    <img src="images/logo.png" alt="Logo" width="150" height="220">
+  <a href="https://github.com/daltonbc96/python-oop-projects/tree/master/banking-system-project">
+    <img src="https://github.com/daltonbc96/python-oop-projects/blob/master/images/logo.png?raw=true" alt="Logo" width="150" height="220">
   </a>
   <h3 align="center">DBC Bank System</h3>
 
@@ -29,7 +29,7 @@
 
 ## About The Project
 <p align="center">
-  <img src="images/mainMenu.png" alt="Main Menu" width="65%">
+  <img src="https://github.com/daltonbc96/python-oop-projects/blob/master/images/mainMenu.png?raw=true" alt="Main Menu" width="65%">
 </p>
 
 This is a Python project for practicing object-oriented programming concepts. This project allows users to create a checking or savings account and perform financial transactions between accounts.
