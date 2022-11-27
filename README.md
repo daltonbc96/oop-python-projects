@@ -26,7 +26,6 @@
   * [Installation](#installation)
 * [License](#license)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
@@ -82,7 +81,7 @@ python main.py
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/daltonbc96/python-oop-projects/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/daltonbc96/python-oop-projects/blob/master/LICENSE.md) for more information.
 
 ## Authors
 
